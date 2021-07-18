@@ -1,0 +1,27 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    color: #777;
+  }
+  .img1, .img2, .img3{
+    position: relative;
+    opacity: 0.6;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .img1{
+    background-image: url("https://s27363.pcdn.co/wp-content/uploads/2020/10/Mt-Rushmore-Travel-Guide.jpg.optimal.jpg");
+    min-height: 100%;
+  }
+  .img2{
+    background-image: url("https://www.indianfolk.com/wp-content/uploads/2018/01/statue-of-liberty-silo-STATUE0216.jpg");
+    min-height: 100%;
+  }
+  .img3{
+    background-image: url("https://www.ge.com/news/sites/default/files/Reports/2020-03/GettyImages-530755444-e1496426370542.jpg");
+    min-height: 100%;
+  }
+  
